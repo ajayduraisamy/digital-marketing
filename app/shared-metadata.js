@@ -1,3 +1,3 @@
 export const openGraphImage = {
-  images: ["https://nelson-vaz-p.vercel.app/"],
+  images: ["https://digital-marketing-drnexgen.vercel.app"],
 };

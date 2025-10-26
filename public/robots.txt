@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://nelson-vaz-p.vercel.app/
+Host: https://digital-marketing-drnexgen.vercel.app/
 
 # Sitemaps
-Sitemap: https://nelson-vaz-p.vercel.app/sitemap.xml
+Sitemap: https://digital-marketing-drnexgen.vercel.app/sitemap.xml

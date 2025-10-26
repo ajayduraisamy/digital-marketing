@@ -15,18 +15,18 @@ export const metadata = {
   keywords:
     "Digital Marketing Course, SEO, PPC, Social Media Marketing, Content Marketing, Analytics, Online Marketing Training, Marketing Strategies, Digital Advertising",
   robots: "index, follow",
-  canonical: "https://your-digital-marketing-course.vercel.app",
+  canonical: "https://digital-marketing-drnexgen.vercel.app",
   openGraph: {
     ...openGraphImage,
     title: "Digital Marketing Course | Learn SEO, PPC, Social Media & More",
     type: "website",
-    url: "https://your-digital-marketing-course.vercel.app/",
+    url: "https://digital-marketing-drnexgen.vercel.app/",
     description:
       "Enroll in our Digital Marketing Course to gain practical skills in SEO, PPC, social media campaigns, content marketing, and analytics-driven strategies.",
     site_name: "Digital Marketing Course",
     images: [
       {
-        url: "https://your-digital-marketing-course.vercel.app/img/ogImage.webp",
+        url: "https://digital-marketing-drnexgen.vercel.app/img/ogImage.webp",
         width: 1200,
         height: 630,
         alt: "Digital Marketing Course | Learn Online",
@@ -39,7 +39,7 @@ export const metadata = {
     title: "Digital Marketing Course | Learn SEO, PPC, Social Media & More",
     description:
       "Master digital marketing with our comprehensive course covering SEO, PPC, content, social media, and analytics. Start learning today!",
-    image: "https://your-digital-marketing-course.vercel.app/img/ogImage.webp",
+    image: "https://digital-marketing-drnexgen.vercel.app/img/ogImage.webp",
   },
 };
 
